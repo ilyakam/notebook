@@ -5,3 +5,4 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased]
 ### Added:
 - Initial project setup
+- AWS Redshift doc
